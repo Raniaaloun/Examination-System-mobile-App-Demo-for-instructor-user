@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button.yellow" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/yellow</item>
+    </style>
+
+</resources>
